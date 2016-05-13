@@ -3,7 +3,7 @@
 var name = 'Tyler';
 //Create a function called isTyler that accepts name as it's only parameter.
 //If the argument you passed in is equal to 'Tyler', return true. If it's not, return false.
-
+function isTyler()
   //Code Here
 
 //////////////////PROBLEM 2////////////////////
@@ -53,7 +53,7 @@ var name = 'Tyler';
 //Create a function called myName that returns your name
 
   //Code Here
-  
+
 
 
 //Now save the function definition of myName into a new variable called newMyName
